@@ -22,8 +22,4 @@ This is an e-commerce application built with the MERN (MongoDB, Express, React, 
 - **Backend**: Node.js, Express, MongoDB
 - **Dev Tools**: Git, GitHub, Postman
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Atishay3012/ecommerce-app.git
